@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/23/2014 12:15:46 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_FROZEN</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>FrozenIconAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_FROZEN</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>FrozenIconAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_FROZEN</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>FrozenIconAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_FROZEN</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>FrozenIconAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_FROZEN</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>FrozenIconAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CIV_COLOR_ATLAS_FROZEN</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>FrozenIconAtlas32.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+    
+    <!--UNIT ICON FLAGS-->
+    <Row>
+      <Atlas>FROZEN_UNIT_FLAGS</Atlas>
+      <IconSize>32</IconSize>
+      <Filename>FrozenUnitAtlas32.dds</Filename>
+      <IconsPerRow>1</IconsPerRow>
+      <IconsPerColumn>1</IconsPerColumn>
+    </Row>
+	</IconTextureAtlases>
+</GameData>

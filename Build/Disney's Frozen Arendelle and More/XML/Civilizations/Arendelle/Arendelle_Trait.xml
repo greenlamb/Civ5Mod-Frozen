@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_BORN_OF_COLD</Type>
+      <Description>TXT_KEY_TRAIT_BORN_OF_COLD</Description>
+      <ShortDescription>TXT_KEY_TRAIT_BORN_OF_COLD_SHORT</ShortDescription>
+      <FreeBuilding>BUILDING_ARENDELLETRAIT</FreeBuilding>
+    </Row>
+  </Traits>
+
+</GameData>

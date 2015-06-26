@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2014 10:55:10 PM -->
+<GameData>
+  
+  <ArtDefine_UnitInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_ICE</Type>
+      <DamageStates>1</DamageStates>
+    </Row>
+  </ArtDefine_UnitInfos>
+  <ArtDefine_UnitInfoMemberInfos>
+    <Row>
+      <UnitInfoType>ART_DEF_UNIT_ICE</UnitInfoType>
+      <UnitMemberInfoType>ART_DEF_UNIT_MEMBER_ICE</UnitMemberInfoType>
+      <NumMembers>1</NumMembers>
+    </Row>
+  </ArtDefine_UnitInfoMemberInfos>
+  <ArtDefine_UnitMemberInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_MEMBER_ICE</Type>
+      <Scale>0.20</Scale>
+      <Domain>Sea</Domain>
+      <Model>andes_cargo_ship.fxsxml</Model>
+      <MaterialTypeTag>WOOD</MaterialTypeTag>
+      <MaterialTypeSoundOverrideTag>WOODLRG</MaterialTypeSoundOverrideTag>
+    </Row>
+  </ArtDefine_UnitMemberInfos>
+  <ArtDefine_UnitMemberCombats>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_ICE</UnitMemberType>
+      <EnableActions>Idle Death Run</EnableActions>
+      <HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+    </Row>
+  </ArtDefine_UnitMemberCombats>
+  <ArtDefine_StrategicView>
+    <Row>
+      <StrategicViewType>ART_DEF_UNIT_ICE</StrategicViewType>
+      <TileType>Unit</TileType>
+      <Asset>SV_Galley.dds</Asset>
+    </Row>
+  </ArtDefine_StrategicView>
+  
+</GameData>

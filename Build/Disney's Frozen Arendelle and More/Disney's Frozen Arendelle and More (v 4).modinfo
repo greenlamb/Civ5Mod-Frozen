@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="8cd161cf-e735-4f99-8c90-f317c8172844" version="4">
+  <Properties>
+    <Name>Disney's Frozen: Arendelle and More</Name>
+    <Teaser>A mod for the world of Frozen, the 2013 Disney movie.</Teaser>
+    <Description>A mod for the world of Frozen, the 2013 Disney movie.[NEWLINE][NEWLINE]Version 4:The HappyJammer's Fever Update[NEWLINE]
+Updates galore after a loooong hiatus, thanks to TheHappyJammer, who is now the co-owner of this mod! He did practically 99% of the new changes, kudos to him.[NEWLINE]NOTE: To load the custom scenario, click "Map Type", and click "Additional Maps", and choose the "ARENDELLE" map. Then click on "Load Scenario".[NEWLINE]- Elsa and Hans gains promotions and changes that better reflect their character in both the AI Flavors and with the Hero Units.[NEWLINE]- Hans's UA has been changed to better reflect his character as "Admiral Westergard".[NEWLINE]- A Map of Arendelle and The Southern Isles is added, based on the map shown in "Frozen Fever". A customized scenario can now be played.[NEWLINE]- Hans gains a new unique building, 12 brothers's Stable, an inspiration from Frozen Fever, +2 food and + 1 Gold from each horse resource when the stable is built.[NEWLINE]- 5 new City-States added to the game:[NEWLINE]
+  - Corona (Cultured)[NEWLINE]
+  - Weselton (Mercantile)[NEWLINE]
+  - Valley of the Living Rock (Religious)[NEWLINE]
+  - Maldonia (Cultured)[NEWLINE]
+  - Storybrooke (Religious)[NEWLINE]- Diplomatic responses for Elsa and Hans have been customized.[NEWLINE][NEWLINE]
+
+
+All characters and art are the property of Walt Disney Animated Studios. [NEWLINE][NEWLINE]
+
+Thanks to:[NEWLINE]
+- civfanatics.com for their tutorials and, well, basically for everything in how to mod Civilization 5.[NEWLINE]
+- http://frozen.wikia.com for their wiki articles and several images.[NEWLINE]
+- Brittany Lee at http://britsketch.blogspot.com.au/ for her concept art.[NEWLINE]
+- Reddit user /u/AdultSupervision for the inspiration for the crest of the Southern Isles.[NEWLINE]
+- civfanatics.com user hangman for his Andean Cargo Ship model, and bouncymischa for the custom missions Lua code.</Description>
+    <Authors>greenlamb, TheHappyJammer</Authors>
+    <SpecialThanks>reddit.com/r/Frozen, civfanatics.com</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="46C53028FE5E03E39CFE2137EFD2AE6D" import="1">Art/andes_cargo_ship.fxsxml</File>
+    <File md5="EE8FCC8F250027B68E0186B7BDF5027D" import="1">Art/andes_cargo_ship.gr2</File>
+    <File md5="B2FF98C8D6B11E644DD4BCB8B1EC39C8" import="1">Art/andes_cargo_ship_diff.dds</File>
+    <File md5="773212A88FA99CD755CFCE20A3F494B9" import="1">Art/andes_cargo_ship_sref.dds</File>
+    <File md5="1D6F9A0F7099BBB45458D383A1A15A0F" import="1">Art/ArendelleAlpha128.dds</File>
+    <File md5="4E79D02CEBADE60DEB9AE32EA720EB62" import="1">Art/ArendelleAlpha16.dds</File>
+    <File md5="BA8834492A7D32829F53B63918E9FFD7" import="1">Art/ArendelleAlpha24.dds</File>
+    <File md5="714E71D306AFDED23B9A002D7CE61E88" import="1">Art/ArendelleAlpha32.dds</File>
+    <File md5="ABB56C1BB960A487E0712B1BC63607CF" import="1">Art/ArendelleAlpha48.dds</File>
+    <File md5="718A38C905CE0B1BDAB505DD9FDF2027" import="1">Art/ArendelleAlpha64.dds</File>
+    <File md5="B5B565EFD029148AC71289682D7E4573" import="1">Art/ArendelleDOM.dds</File>
+    <File md5="6D7D7189DEE7FC01C447FDC5122570B8" import="1">Art/ArendelleMap.dds</File>
+    <File md5="E457B0F4D352BC568325F0B51EB2DB7B" import="1">Art/Elsa_Diplo.dds</File>
+    <File md5="DBA853BC3AD70852556ECC3533528FBB" import="1">Art/Elsa_Scene.xml</File>
+    <File md5="BE13E3F5B4998DF463A179F5E14DB0C6" import="1">Art/FrozenIconAtlas128.dds</File>
+    <File md5="BAB97A2A6CD20AC13E0BBF99712E455F" import="1">Art/FrozenIconAtlas256.dds</File>
+    <File md5="F8694AA445AA89084B50C26B95DD0F6B" import="1">Art/FrozenIconAtlas32.dds</File>
+    <File md5="B519482F5AFD88A3A378C55EE84D8712" import="1">Art/FrozenIconAtlas45.dds</File>
+    <File md5="8361FE4104718A9561967616CE6D1230" import="1">Art/FrozenIconAtlas64.dds</File>
+    <File md5="AEE5FE0B0D7F9C27FA20D967E575683F" import="1">Art/FrozenIconAtlas80.dds</File>
+    <File md5="7F28A4673B0F5F4E50C098E63772710B" import="1">Art/FrozenUnitAtlas32.dds</File>
+    <File md5="AB99E43C6C11147808520567752270F3" import="1">Art/f_longswordsman.fxsxml</File>
+    <File md5="2BC3988E097E0CA704F7C36980D5ADE5" import="1">Art/f_longswordsman.gr2</File>
+    <File md5="7131414576B846123B05B1701B9CC89A" import="1">Art/f_longswordsman_DIFF.dds</File>
+    <File md5="BB5872E03758913D8D769DF4D7ACA7ED" import="1">Art/f_longswordsman_SREF.dds</File>
+    <File md5="7DB6EC2DEBE721E499A70B895D99C4FF" import="1">Art/Hans_Diplo.dds</File>
+    <File md5="DC6B189A30B335F577566B45DC228B18" import="1">Art/Hans_Scene.xml</File>
+    <File md5="01598EB217668A8754AB33FB944C5C53" import="1">Art/SIMap.dds</File>
+    <File md5="F4F7D82CA98AE764B1E5B510A56DF7DE" import="1">Art/SouthernIslesDOM.dds</File>
+    <File md5="73144C627C31DBCCCD07DA113C220205" import="0">LUA/PillageHeal.lua</File>
+    <File md5="56CBFA56321F2B11FB60A01B50A70FD9" import="0">LUA/SummonIce.lua</File>
+    <File md5="5BB180FAD7A5CB2637897FF1227130AA" import="1">LUA/UnitPanel.lua</File>
+    <File md5="DE7D4D126BCEE88859510CB6D320ACBB" import="0">Map/Arendelle.Civ5Map</File>
+    <File md5="8FE1125470C4F53736A1C82C3D770468" import="0">SQL/ElsaDiplomacy.sql</File>
+    <File md5="90393F971704EF0DBA2D3406A724C787" import="0">SQL/HansDiplomacy.sql</File>
+    <File md5="ECB971004F01030F0034ECE8307F7595" import="0">XML/Civilizations/Arendelle/Arendelle_Civilization.xml</File>
+    <File md5="9814483A2CF187D26DEDCB9BC19CA13C" import="0">XML/Civilizations/Arendelle/Arendelle_Diplomacy.xml</File>
+    <File md5="D1AF5A25E50CA4DBCD269F104447EBAE" import="0">XML/Civilizations/Arendelle/Arendelle_Leader.xml</File>
+    <File md5="8709BA78CDBF750A05C806DC197ADBFE" import="0">XML/Civilizations/Arendelle/Arendelle_Trait.xml</File>
+    <File md5="014938424C069F593D434CFA1791EDA5" import="0">XML/Civilizations/Arendelle/Arendelle_Units.xml</File>
+    <File md5="9F6D4312093EAF4077F88B3B7E1E3F04" import="0">XML/Civilizations/Arendelle/Arendelle_GameText.xml</File>
+    <File md5="C4690FB3B81DD0B804485C7DCAB468C1" import="0">XML/Civilizations/Arendelle/ElsaUnitArt.xml</File>
+    <File md5="83AC2E9993D847D29E80DF155B986516" import="0">XML/Civilizations/Arendelle/Arendelle_Buildings.xml</File>
+    <File md5="197A89E9DB149AF0BEA9429C9B5EF813" import="0">XML/Civilizations/Arendelle/IceUnitArt.xml</File>
+    <File md5="81DA489340CBD44E566CE544BFBDBA5E" import="0">XML/Civilizations/Southern Isles/SI_Buildings.xml</File>
+    <File md5="8D01689A92A0794C5D47CA823EED99CD" import="0">XML/Civilizations/Southern Isles/HansUnitArt.xml</File>
+    <File md5="523E5651524A9A13C3EF7102C282DEB3" import="0">XML/Civilizations/Southern Isles/SI_Diplomacy.xml</File>
+    <File md5="421D6C245F77E02577167929F9709F64" import="0">XML/Civilizations/Southern Isles/SI_GameText.xml</File>
+    <File md5="C141654E8DBE13DC07E8669BC0F426F2" import="0">XML/Civilizations/Southern Isles/SI_Civilization.xml</File>
+    <File md5="A9D936C3AFE613CDBB3B69823FB5C6FC" import="0">XML/Civilizations/Southern Isles/SI_Leader.xml</File>
+    <File md5="D00FAB3C6331816C337B2D185BAE6C3C" import="0">XML/Civilizations/Southern Isles/SI_Trait.xml</File>
+    <File md5="7E3289BB94EB858EB28FA905AC286487" import="0">XML/Civilizations/Southern Isles/SI_Units.xml</File>
+    <File md5="FA5C35BEB6C73FE655A68BF75EE25E8D" import="0">XML/Others/CityStates.xml</File>
+    <File md5="9BA78CD0ADBF0FE4F46F8FB5425DE68A" import="0">XML/Others/CIV5IconTextureAtlases.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Others/CIV5IconTextureAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Others/CityStates.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/Arendelle_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/ElsaUnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/IceUnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/Arendelle_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/Arendelle_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/Arendelle_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/Arendelle_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/Arendelle_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Arendelle/Arendelle_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/ElsaDiplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/SI_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/HansUnitArt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/SI_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/SI_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/SI_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/SI_Units.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/SI_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Southern Isles/SI_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/HansDiplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/SummonIce.lua">
+      <Name>SummonIce</Name>
+      <Description>Summon Iceberg</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/PillageHeal.lua">
+      <Name>PillageHeal</Name>
+      <Description>Pillage and Heal</Description>
+    </EntryPoint>
+    <EntryPoint type="Map" file="Map/Arendelle.Civ5Map">
+      <Name>Arendelle</Name>
+      <Description>Arendelle Map</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

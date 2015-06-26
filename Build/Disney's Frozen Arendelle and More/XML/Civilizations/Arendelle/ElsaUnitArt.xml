@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2014 10:28:47 PM -->
+<GameData>
+  
+  <ArtDefine_UnitInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_ELSA</Type>
+      <DamageStates>1</DamageStates>
+      <Formation>DefaultMelee</Formation>
+    </Row>
+  </ArtDefine_UnitInfos>
+  
+  <ArtDefine_UnitInfoMemberInfos>
+    <Row>
+      <UnitInfoType>ART_DEF_UNIT_ELSA</UnitInfoType>
+      <UnitMemberInfoType>ART_DEF_UNIT_MEMBER_ELSA</UnitMemberInfoType>
+      <NumMembers>1</NumMembers>
+    </Row>
+  </ArtDefine_UnitInfoMemberInfos>
+  
+  <ArtDefine_UnitMemberInfos>
+    <Row>
+      <Type>ART_DEF_UNIT_MEMBER_ELSA</Type>
+      <Scale>0.20</Scale>
+      <Model>f_longswordsman.fxsxml</Model>
+      <MaterialTypeTag>CLOTH</MaterialTypeTag>
+      <MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+    </Row>
+  </ArtDefine_UnitMemberInfos>
+  
+  <ArtDefine_UnitMemberCombats>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_ELSA</UnitMemberType>
+      <EnableActions>Idle Attack RunCharge AttackCity Bombard Death BombardDefend Run Fortify CombatReady Walk AttackCharge</EnableActions>
+      <ShortMoveRadius>12.0</ShortMoveRadius>
+      <ShortMoveRate>0.349999994039536</ShortMoveRate>
+      <TargetHeight>8.0</TargetHeight>
+      <HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+      <ReformBeforeCombat>1</ReformBeforeCombat>
+    </Row>
+  </ArtDefine_UnitMemberCombats>
+  
+  <ArtDefine_UnitMemberCombatWeapons>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_ELSA</UnitMemberType>
+      <Index>0</Index>
+      <SubIndex>0</SubIndex>
+      <WeaponTypeTag>METAL</WeaponTypeTag>
+      <WeaponTypeSoundOverrideTag>SPEAR</WeaponTypeSoundOverrideTag>
+    </Row>
+    <Row>
+      <UnitMemberType>ART_DEF_UNIT_MEMBER_ELSA</UnitMemberType>
+      <Index>1</Index>
+      <SubIndex>0</SubIndex>
+      <VisKillStrengthMin>10.0</VisKillStrengthMin>
+      <VisKillStrengthMax>20.0</VisKillStrengthMax>
+      <WeaponTypeTag>FLAMING_ARROW</WeaponTypeTag>
+      <MissTargetSlopRadius>10.0</MissTargetSlopRadius>
+    </Row>
+  </ArtDefine_UnitMemberCombatWeapons>
+  
+  <ArtDefine_StrategicView>
+    <Row>
+      <StrategicViewType>ART_DEF_UNIT_ELSA</StrategicViewType>
+      <TileType>Unit</TileType>
+      <Asset>SV_Spearman.dds</Asset>
+    </Row>
+  </ArtDefine_StrategicView>
+</GameData>

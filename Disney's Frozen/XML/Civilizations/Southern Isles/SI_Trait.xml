@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_HANS_CHARM</Type>
+      <Description>TXT_KEY_TRAIT_HANS_CHARM</Description>
+      <ShortDescription>TXT_KEY_TRAIT_HANS_CHARM_SHORT</ShortDescription>
+    </Row>
+  </Traits>
+
+	<!-- Trait_ExtraYieldThresholds -->
+	<!-- Trait_YieldChanges -->
+	<!-- Trait_YieldChangesStrategicResources -->
+	<!-- Trait_YieldChangesNaturalWonder -->
+	<!-- Trait_YieldChangesPerTradePartner -->
+	<!-- Trait_YieldChangesIncomingTradeRoute -->
+	<!-- Trait_YieldModifiers -->
+	<!-- Trait_FreePromotions -->
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALRANGED</UnitCombatType>
+			<PromotionType>PROMOTION_OCEAN_MOVEMENT</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_NAVALMELEE</UnitCombatType>
+			<PromotionType>PROMOTION_OCEAN_MOVEMENT</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_SUBMARINE</UnitCombatType>
+			<PromotionType>PROMOTION_OCEAN_MOVEMENT</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_CARRIER</UnitCombatType>
+			<PromotionType>PROMOTION_OCEAN_MOVEMENT</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_SIEGE</UnitCombatType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_HANS_CHARM</TraitType>
+			<UnitCombatType>UNITCOMBAT_ARMOR</UnitCombatType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<!-- Trait_MovesChangeUnitCombats -->
+	<!-- Trait_MaintenanceModifierUnitCombats -->
+	<!-- Trait_Terrains -->
+	<!-- Trait_ResourceQuantityModifiers -->
+	<!-- Trait_FreeResourceFirstXCities -->
+	<!-- Trait_ImprovementYieldChanges -->
+	<!-- Trait_SpecialistYieldChanges -->
+	<!-- Trait_UnimprovedFeatureYieldChanges -->
+	<!-- Trait_NoTrain -->
+	
+</GameData>

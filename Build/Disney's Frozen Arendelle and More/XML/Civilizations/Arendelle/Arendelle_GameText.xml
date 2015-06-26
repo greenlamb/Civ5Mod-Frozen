@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+  <!-- ################# -->
+  <!-- CIVILIZATION TEXT -->
+  <!-- ################# -->
+  
+	<Language_en_US>
+
+		<Row Tag="TXT_KEY_CIV_ARENDELLE_DESC">
+			<Text>Kingdom of Arendelle</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_CIV5_ARENDELLE_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_FACTOID_TEXT">
+			<Text>
+        Arendelle is the Norwegian-inspired home of Queen Elsa, her sister, Princess Anna, as well as their late parents.
+      </Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ARENDELLE_TEXT_1">
+      <Text>
+        The following information is sourced from http://frozen.wikia.com/wiki/Arendelle.
+        [NEWLINE][NEWLINE]Due to the unstable nature of Elsa's magic, the late king ordered the castle gates to be closed in the dual interests of protecting his people from Elsa's magic and to shield her from their possible persecution. On the day of Elsa's coronation, when her magical abilities were exposed to the public, Elsa ran away and unintentionally triggered severe winter weather conditions that froze the kingdom. While Elsa was gone and Anna searched for her, Hans bore the task of protecting the kingdom. Ultimately, Anna's efforts and love for her sister provided Elsa with the knowledge necessary to control her winter magic and thus undo the spell of eternal winter plaguing Arendelle.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_HEADING_2">
+			<Text>Official Crest</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ARENDELLE_TEXT_2">
+      <Text>
+        The official crest of Arendelle is the crocus, which has a ubiquitous presence on banners, capes, uniforms, wallpaper, and jewelry. The colors green and purple, and to a lesser extent, yellow, also have some significance to the kingdom. Official designs usually have a golden-yellow crocus with three petals and two leaves emblazoned upon a split background featuring purple on the left and green on the right.
+        [NEWLINE][NEWLINE]It is possible Elsa may have adopted her signature snowflake as a personal crest, as shown by its presence on the medallion that labelled Kristoff as the "Official Arendelle Ice Master and Deliverer."
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_HEADING_3">
+			<Text>Geography</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ARENDELLE_TEXT_3">
+      <Text>
+        Arendelle is located near a fjord, making it a viable trading center. Its human population appears to be densely concentrated within the castle perimeter, although there is human activity in the forest due to the presence of Wandering Oaken's Trading Post and Sauna.
+        [NEWLINE][NEWLINE]There are also non-human populations, such as animals in the forest and trolls in the Valley of the Living Rock. In addition to the fjord and forest area, Arendelle is also in the vicinity of mountains, the most prominent being the imposing North Mountain.
+        [NEWLINE][NEWLINE]The kingdom is subject to the succession of seasons, having both warm summers and frigid winters. In the winter, there is a noticeable decrease in plant life and animal activity. However, in the summer, Arendelle's flora flourishes, with lush vegetation covering the cliffsides and flowers growing plentifully.
+        [NEWLINE][NEWLINE]It is worth noting that Arendelle is in a position that is conducive for observing the aurora borealis.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_HEADING_4">
+			<Text>Government</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ARENDELLE_TEXT_4">
+      <Text>
+        Arendelle is a small kingdom ruled by a king and/or queen. Elsa's coronation shows that females can inherit the throne, though this may have been due to a lack of male heirs. Also, following Elsa's temporary abdication of the throne, Anna appeared to be in control, as she was capable of placing Prince Hans in control while she departed to retrieve Elsa.
+        [NEWLINE][NEWLINE]Arendelle's monarch possesses a wide variety of roles and powers. The head of state appears to have the role of judge and executioner, as shown during Hans' brief reign when he sentences Elsa to death for treason and personally sets out to kill her (though this may be more of a reflection of his malevolent nature). The reigning monarch has full control over economic affairs, as shown by Elsa's decision to cut all business ties with Weselton. The sovereign also has the power to appoint officials and create new positions, as shown by Elsa making Kristoff the first "Official Arendelle Ice Master and Deliverer."
+        [NEWLINE][NEWLINE]It is unknown who oversaw the kingdom's affairs in the intermediate period between the death of Elsa and Anna's parents and Elsa's coming of age; however, it's possible the steward, Kai, was placed in charge of the kingdom during that time.
+        [NEWLINE][NEWLINE]Though the Bishop doesn't appear to hold any direct political power, he is responsible for heading the coronation ceremony and thus, he bears the responsibility of bestowing the right to rule upon an individual. The coronation ceremony is a very symbolic event in which the prospective monarch must grasp Arendelle's regalia and face his/her subjects while the Bishop ordains him/her in Old Norse.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_HEADING_5">
+			<Text>Military</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ARENDELLE_TEXT_5">
+      <Text>
+        Though no formal military is ever seen, Arendelle does have royal guards who are adept at spear-throwing, as seen during their raid on Elsa's ice palace. They are unquestionably loyal to the royal family of Arendelle as they immediately moved to close the gates at Elsa's request when she decided to cut the coronation festivities short. They also placed their loyalty in Hans at Anna's request despite knowing little about the outsider.
+        [NEWLINE][NEWLINE]Due to Arendelle's proximity to the fjord and the presence of docks, it's possible the kingdom has a formidable naval presence. However, it's equally likely the docks are reserved for ships with purely commercial purposes as the Duke of Weselton said that Arendelle, had tradable goods.
+      </Text>
+    </Row>
+
+		
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_TITLE">
+			<Text>Arendelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARENDELLE_SHORT_DESC">
+			<Text>Arendelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ARENDELLE_ADJECTIVE">
+			<Text>Arendellian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_ARENDELLE_TEXT">
+			<Text>
+        Queen Elsa of Arendelle, since a young age, you have discovered an innate ability to control ice. However, during an unfortunate accident while playing with your sister, Anna, you accidentally shot her head with your ice powers. Although the mysterious trolls were able to heal the damage, leaving only a streak of white hair on Anna, they also removed her memory of the accident, along her knowledge of your powers. Afraid of the destructive powers of your magical ability, you shut out everyone out from your room and your heart, while trying to conceal and control your powers inside yourself.
+        [NEWLINE][NEWLINE]Now, you have reached the age of adulthood, and have been crowned Queen of Arendelle. For your coronation, nobles and royalty from near and far have gathered in Arendelle. Among the foreign dignitaries, is a young handsome prince, who seemed to have captured the heart of your sister, who in her naivety, insists on marrying him right away. Meanwhile, you are struggling internally to maintain your concealment of your powers, almost petrified in your fear of what would happen should everyone else find out about your powers.
+        [NEWLINE][NEWLINE]Queen Elsa of Arendelle, are you able to face the external threat of the foreign prince who is not all he seems to be, while maintaining internal control of your growing powers? Are you able to win back the hearts, loyalty, and acceptance of your people and your sister, and build a civilization that stands the test of time?
+      </Text>
+		</Row>
+
+
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_0">
+			<Text>Arendelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_1">
+			<Text>The North Mountain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_2">
+			<Text>Oaken's Trading Post</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_3">
+			<Text>Birka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_4">
+			<Text>Uppsala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_5">
+			<Text>Turku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_6">
+			<Text>Linköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_7">
+			<Text>Lund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_8">
+			<Text>Espoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_9">
+			<Text>Västeräs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_10">
+			<Text>Malmö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_11">
+			<Text>Vantaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_12">
+			<Text>Visby</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_13">
+			<Text>Strängnäs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_14">
+			<Text>Tampere</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_15">
+			<Text>Skara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_16">
+			<Text>Lödöse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_17">
+			<Text>Oulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_18">
+			<Text>Växjö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_19">
+			<Text>Jyvaskyla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_20">
+			<Text>Gothenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_21">
+			<Text>Orebro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_22">
+			<Text>Lahti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_23">
+			<Text>Helsingborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_24">
+			<Text>Jönköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_25">
+			<Text>Kuopio</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_26">
+			<Text>Norrköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_27">
+			<Text>Sundsvall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_28">
+			<Text>Kouvola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_29">
+			<Text>Karlstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_30">
+			<Text>Umea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_31">
+			<Text>Pori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_32">
+			<Text>Ystad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_33">
+			<Text>Paviken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ARENDELLE_34">
+			<Text>Vaasa</Text>
+		</Row>
+
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_0">
+			<Text>Leviro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_1">
+			<Text>HikariOni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_2">
+			<Text>Thirteen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_3">
+			<Text>1-Canada-1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_4">
+			<Text>Corteno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_5">
+			<Text>tehrech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_6">
+			<Text>tossmehard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_7">
+			<Text>OrangeFeels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_8">
+			<Text>Eren_Jeager</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ARENDELLE_9">
+			<Text>Greenlamb</Text>
+		</Row>
+
+  </Language_en_US>
+
+  <!-- ########### -->
+  <!-- LEADER TEXT -->
+  <!-- ########### -->
+  
+  <Language_en_US>
+
+		<Row Tag="TXT_KEY_LEADER_ELSA">
+			<Text>Elsa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_SUBTITLE">
+			<Text>Queen of Arendelle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_LIVED">
+			<Text>July 29, 1823 - ?? AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_NAME">
+			<Text>Elsa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_TITLES_1">
+			<Text>Queen Elsa of Arendelle</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_ELSA_PEDIA">
+			<Text>
+        The following information is sourced from http://frozen.wikia.com/wiki/Elsa.
+        [NEWLINE][NEWLINE]From the outside, Elsa looks poised, regal and reserved, but in reality, she lives in fear as she wrestles with a mighty secret—she was born with the power to create ice and snow. It's a beautiful ability, but also extremely dangerous. Haunted by the moment her magic nearly killed her younger sister Anna, Elsa has isolated herself, spending every waking minute trying to suppress her growing powers. Her mounting emotions trigger the magic, accidentally setting off an eternal winter that she can't stop. She fears she's becoming a monster and that no one, not even her sister, can help her.
+      </Text>
+		</Row>
+		
+    <!--<Row Tag="TXT_KEY_CIV5_ELSA_FACTOID_HEADING">
+			<Text>Elsa Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_FACTOID_TEXT">
+			<Text>Elsa Factoid Text</Text>
+		</Row>-->
+    
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_1">
+			<Text>A Saddened Past</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_1">
+      <Text>
+        At a young age, Elsa realized that she has a magical ability to produce ice and snow, and often used her abilities to play with her younger sister, Anna. Elsa shared a close bond with her free-spirited younger sibling, and the two were the best of friends. At night they would often make it snow in the royal ballroom. However, one night while the two were playing in the ballroom, Anna fell down from one of the high snow slopes Elsa had created. Elsa tries to save her by using her magic, but accidentally strikes her sister instead. Their parents, the King and Queen of Arendelle, immediately seek aid for Anna by visiting the legendary trolls, whose leader, a shaman named Pabbie, is able to stabilize Anna's condition since it had only affected the head, not the heart, which would have been fatal. To be safe, Pabbie then removes Anna's knowledge and memories of magic, much to Elsa's despair. Pabbie takes the time to explain the true strength of Elsa's abilities, telling her there's not only beauty in it, but danger, and that she must learn to control them at all cost, but that fear will be her enemy. While the King promises to help Elsa control her powers, the incident leaves Elsa traumatized by them. As a result, the King and Queen order the gates to be locked for Elsa and Anna's safety. From then on, Elsa forcibly spent the rest of her life distanced from the kingdom, including Anna, trying to keep her powers from growing out of control and harming those she cares about. Even so, the persistent Anna tried time and time again to spend some quality time with her sister, but failed at every turn, leading her to eventually believe Elsa despised her.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_2">
+			<Text>The Death of the Royals</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_2">
+      <Text>
+        Throughout the years, Elsa's only true human contact was with her parents, who calmly helped their daughter control her abilities, teaching her to remain calm for fear and stress would only cause chaos. To help further, the king bestowed upon Elsa a pair of gloves, which were able to suppress her powers (teaching her to conceal it, don't feel it, don't let it show), making life much easier, though still heavily fearful. And despite better control, Elsa still refused to contact Anna, truly terrified of harming her yet again. One day, during Anna and Elsa's teenage years, the king and queen left for a trip, and though Elsa was torn about their parting, she bid them farewell as they were off. However, this would be her last time with them, as the royals would die at sea during a powerful storm. A funeral was held, though Anna was the only one of the sisters to attend. Elsa, instead, too afraid to even go to the funeral out of fear of hurting someone with her powers, stayed within her bedroom, mourning for the loss of her parents, alone. Because of her devastated emotions, her powers corrupted the bedroom, freezing everything inside and reflecting the sorrow of the event. With the passing of her beloved parents and contact with Anna still deemed too dangerous, Elsa was now truly alone.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_3">
+			<Text>The Coronation</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_3">
+      <Text>
+        Three years later, Elsa is chosen to be crowned the new queen regnant. To celebrate the momentous occasion, Arendelle invites royalty from far and wide to join in the festivities, such as the dashing Prince Hans and the pompous Duke of Weselton among others. Whilst Anna, the citizens of Arendelle, and the visiting royals couldn't be more excited, Elsa is beyond reluctant, fearful the major contact with the world will lead to the discovery of her powers. Even so, she accepts that it's all merely for a day, and tries her best to conceal her emotions, though the task proves to be difficult. At the cathedral, Elsa's crowning takes place, but because she must wield the traditional sceptre and globus cruciger without her gloves on, her abilities are nearly revealed. Fortunately, she's able to withstand the near exposure, and the festivities commence with a nightly ball. There, Elsa and Anna are reunited for the first time in years, and they share their very first conversation for quite some time, with Elsa leading the way. Both sisters appear to be very joyous to finally share some time together, and although Elsa's enjoying herself and quality time with Anna, Anna's open desire to have moments like the occasion at hand frequently causes Elsa to become reserved once again, reluctantly telling Anna her wish simply cannot be, and without any further explanations as to why, breaking the younger princess' heart and prompting her to leave.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_4">
+			<Text>The Curse</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_4">
+      <Text>
+        Meanwhile, Elsa continues on with the party, meeting visiting dignitaries for a while before Anna returns, but with Prince Hans by her side. After a small introduction, the two announce their newfound engagement and asks for Elsa's blessing upon the marriage. Elsa's baffled by the shocking news, but Anna and Hans couldn't appear more excited, going on to ramble about the wedding arrangements. Elsa ceases the sudden rambling by denying the marriage, much to Anna's heartbreak. The queen asks to speak to Anna alone, likely to finally confess her abilities, but the younger princess refuses any private conversation, stating whatever Elsa has to say can be said to both her and Hans. Becoming frustrated, Elsa outright forbids Anna of marrying someone she just met, indirectly telling the princess she knows nothing about true love, causing Anna to hiss back, telling Elsa all she knows is how to shut people out. Although Elsa is visibly hurt by this, Elsa continues to refuse, and the argument only worsens when Elsa orders the guards to end the party and close the gates. But the heartbroken Anna confronts her sister, completely terrified of living life imprisoned within the castle again. With that, Elsa suggests that she leaves the castle so she can be happy. Things take an ultimate turn for the worst when, out of blind fury, Elsa's powers are finally revealed, causing ice shards to rise from the ground, nearly striking Anna and the other guests. Terrified by what she's done and the reactions it receives, Elsa flees, though Anna, Hans, and the Duke of Weselton chase after her.
+        [NEWLINE][NEWLINE]Elsa retreats into the fjords, successfully escaping her pursuers, and as she does, everything in the land begins to freeze, beginning with the entire body of water in the fjord, trapping all the ships before spreading throughout the rest of the kingdom. Having fail to retrieve her, Anna and Hans returns to the castle courtyard, where the guests have gathered. The Duke of Weselton begins to panic as it eerily begins snowing, declaring they must take action and put an end to Elsa's curse, but Anna refuses and volunteers to seek out Elsa herself and make things right, feeling its her fault for pushing her. With Hans being left in charge of the kingdom, Anna heads off on her horse to begin her quest.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_5">
+			<Text>The Snow Queen</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_5">
+      <Text>
+        Meanwhile, that same night, Elsa has since arrived at the Northern Mountain, miles upon miles away from Arendelle. At first, she's still dreadfully downhearted by all that's just happened. The loss of her sister, the abandoning of her kingdom, the pain of her past consuming her. However, oblivious to the storm she caused, she starts to embrace her powers now that she is alone, letting them roam free and finally unleashing the beauty aspect that Pabbie told her about years ago, and in turn, this makes the new queen happier than she's ever been in years. Now that she's living without fear of harming those she cares about, Elsa has ultimate control over her abilities and creates herself an ice palace and a stunning gown out of her magic, establishing herself as the Snow Queen and officially abandoning her place as queen of Arendelle, declaring she's never returning to her kingdom now that she's finally happy and completely free to be who she is.
+        [NEWLINE][NEWLINE]During her spectacle, Elsa also recreates Olaf, the snowman she built with Anna as a child, but unknowingly imbues him with life. And with his new enchantment, Olaf heads off into the world, eventually stumbling upon Anna and leading her to Elsa's castle sometime afterwards.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_6">
+			<Text>The Creation of Marshmallow</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_6">
+      <Text>
+        From that day forth, Elsa lives peacefully in solitude, until one day when Anna enters her castle. While Elsa becomes slightly elated that Anna had come to visit her, she is still hesitant to return to Arendelle, as well as rekindle her bond with Anna, still fearful of harming her. Elsa then advises Anna to return home where she's safe, wanting her to be happy in Arendelle, but Anna refuses to do so just as Olaf rushes in, reminding Elsa of the whimsical childhood the sisters shared. It was enough to bring a smile to the queen's face until the memory of nearly killing Anna haunts her again, prompting Elsa to turn away, bidding farewell to her sister. Anna accidentally increases the discomfort and stress upon mentioning the kingdom's in danger, Elsa being horrified to learn that she had placed a curse upon it. Overcome by fear and guilt, Elsa unleashes her powers by accident once again, but this time, she inadvertently hits Anna in her heart. As Olaf and Kristoff (Anna's companion who offered to help guide her through the mountains to find Elsa) run to try and aid Anna, Elsa demands for them to leave her, as Anna belongs in Arendelle and she, however, does not. While Anna still insists she come back with them, telling her she won't leave any other way, Elsa is forced to create a gruesome snow beast known as Marshmallow, who throws the trio out of the castle.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_7">
+			<Text>A Monster</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_7">
+      <Text>
+        Afterwards, Marshmallow becomes Elsa's official bodyguard, given that Elsa truly wants nothing more than to be alone, and disguises himself as snowy rocks outside of the castle to keep away any and all visitors who may harm her majesty in any way. Meanwhile, within the walls of the once beautiful ice castle, Elsa has shown to have, despite desperately trying to conceal her emotions, lost control over her powers once again, as the fear of endangering Arendelle has completely overcome her, causing ice shards to fill her castle, giving it a darker and fearful design, matching the monster Elsa fears she has become. Meanwhile, Anna becomes weak, with Kristoff correctly believing it's due to Elsa striking her. To find a cure, Kristoff leads Anna and their companions to the Valley of the Living Rocks, where Pabbie returns and informs them that unless Anna is able to perform an act of true love, Elsa's icy curse would eventually freeze her, killing her. To save herself, Anna and the others rush back to Arendelle to find and receive a kiss from Hans before it's too late, believing true love's kiss is the act that would break the spell.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_8">
+			<Text>Summit Siege</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_8">
+      <Text>
+        Meanwhile, back in the mountains, Hans and a group of soldiers arrive to arrest Elsa after believing she had killed Anna. Marshmallow immediately leaps into action, and Elsa, upon hearing the commotion, flees inside and tries to hide. As Marshmallow defends against the attack, two soldiers sneak past him and enter, searching for Elsa in an attempt to kill her as per the Duke's orders. They soon corner her, and Elsa is fearful at first, but eventually, after becoming very provoked, uses her abilities against the two, willingly, and comes close to killing them, completely furious at the harm they've brought upon her and her home, as well as destroying her vow to keep her powers from harming others. Outside, Marshmallow continues to battle, but Hans brutally injures him and causes him to go plummeting into a chasm to his apparent death, leaving Elsa devoid of protection and allowing Hans and his henchmen access into the castle, where Elsa has gained the upper hand against the Duke's goons. Just as Elsa was about to murder the two, Hans appears and stops her, telling her not to prove she's the monster they believe she is. Elsa settles down a bit at Hans' words, realizing the demon she was becoming and halts her magic. However, one of the soldiers aims his arrow at Elsa, still following the Duke's orders, and just as he is about to shoot her, Hans intervenes, causing the arrow to cut through Elsa's chandelier which then plummets towards the ground. Elsa tries to escape the collision, but is knocked out in the process. Hans and the soldiers then capture her and head back to the kingdom.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_9">
+			<Text>Elsa's Imprisonment</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_9">
+      <Text>
+        Elsa soon awakens to find herself within the castle dungeon. Chained down in shackles, the snow queen finds herself trapped as she looks out the cell's only window, finally witnessing the disaster she's brought upon her former kingdom. Just then, Hans arrives to speak with her. Elsa asks for Anna's whereabouts, but Hans explains she hasn't returned, much to Elsa's concern. The prince then pleads for the queen to end the curse, telling her it'd make things better. However, she regretfully denies, telling Hans that she's unable to. With that, Hans takes his leave, just before Elsa begs for freedom, to which Hans claims he'll do what he can. Once he's gone, Elsa's powers suddenly get the better of her chains and are able to destroy the cell, allowing her to escape. Elsa flees the castle and heads back into the fjords to return home, but her fearful emotions cause a deadly blizzard to consume Arendelle, making her retreat that much more difficult, just as Hans learns of her escape. Needing to put an end to the winter, Hans heads out to kill Elsa, believing her death would not only free the kingdom, but earn him praise and admiration, selfishly wanting to rule the land as a beloved king.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_10">
+			<Text>The Deadly Blizzard</Text>
+		</Row>
+    <Row Tag="TXT_KEY_CIV5_ELSA_TEXT_10">
+      <Text>
+        Meanwhile, with Hans having betrayed Anna and revealing himself to be a ruthless murderer, her curse becomes stronger and her death process is nearly complete. Olaf, however, informs her that Kristoff is the one that truly loves her, and that he's the one she must kiss to save herself. Anna and Olaf retreat to find the mountain man, just as Hans confronts Elsa not too far away. Elsa pleads to be left alone, and asks Hans to take care of Anna for her, to which Hans responds by telling her about the curse she accidentally put upon Anna, and that she died from it despite his efforts to save her. Devastated by the heart wrenching news, Elsa collapses and mourns the death of her sister, ceasing the blizzard and giving Hans the chance to finally eliminate her, as she's now vulnerable. Hans slowly approaches the Snow Queen from behind and draws his sword, ready to decapitate her. However, Anna arrives on the scene, and although she was freezing to death quicker and quicker, she jumps in front of Elsa as her curse takes full effect, turning into an ice statue the second Hans' sword hits, causing him to fall back unconscious just before her last, dying breath is lost. Elsa recovers and sees her sister's fate, causing her to weep and clutch on to the statue while blaming herself for bringing this upon her. However, Anna saving Elsa was an act of true love, and thaws her frozen heart, while bringing Anna back to life.
+      </Text>
+    </Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_HEADING_11">
+			<Text>The Great Thaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ELSA_TEXT_11">
+			<Text>
+        Elsa is overwhelmingly joyous at the turn of events, shocked by the fact that Anna risked her life to save her. Anna responds by telling Elsa she loves her, and Olaf explains the act of true love was Anna's sacrifice, and that's what thawed her heart. These words from the snowman give Elsa the realization that the curse can be lifted, and that love is the key to doing so. Realizing that love enables her to control her powers, Elsa is able to use this and focuses herself, removing the icy curse from Arendelle and bringing summer back to the kingdom. With peace restored, Elsa rekindles her bond with Anna and is praised by her people for freeing them from the curse, having learned she's far from a monster.
+        [NEWLINE][NEWLINE]Elsa then resumes her position as queen, uses her abilities to give Olaf an ice cloud to prevent him from melting, cuts off trade with Weselton, deports Hans, the Duke and his men for their attempted assassinations, names Kristoff the Official Arendelle Ice Master and Deliverer, and creates a rink in the castle courtyard for the people of Arendelle to enjoy. Elsa declares they'll never close the castle gates again now that she's finally accepted and makes a pair of ice skates for Anna, the two sisters then joining the celebration of harmony, having the fun they used to share together at long last.
+      </Text>
+		</Row>
+
+  </Language_en_US>
+
+  <!-- ########## -->
+  <!-- TRAIT TEXT -->
+  <!-- ########## -->
+
+  <Language_en_US>
+    
+		<Row Tag="TXT_KEY_TRAIT_BORN_OF_COLD">
+			<Text>+2 [ICON_FOOD] for all tundra and snow tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_BORN_OF_COLD_SHORT">
+			<Text>Born of Cold and Winter Air</Text>
+		</Row>
+
+  </Language_en_US>
+
+  <!-- ######### -->
+  <!-- UNIT TEXT -->
+  <!-- ######### -->
+
+  <Language_en_US>
+    
+    <Row Tag="TXT_KEY_UNIT_HERO_ELSA">
+      <Text>Elsa (Hero Unit)</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HERO_ELSA_TEXT">
+      <Text>
+        Queen Elsa of Arendelle possesses the ability to create icebergs on any water or ocean tile at the cost of 50 [ICON_CULTURE], blocking movement of all naval units except for friendly units.
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HERO_ELSA_STRATEGY">
+      <Text>Free unit for Arendelle at game start, and only Arendelle may build it, with a limit of one unit. Elsa has the ability to create icebergs on any water or ocean tile at the cost of 50 [ICON_CULTURE]. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_HERO_ELSA_HELP">
+      <Text>Able to create icebergs on any water or ocean tile at the cost of 50 [ICON_CULTURE], blocking movement of all naval units except for friendly units. </Text>
+    </Row>
+
+
+    <Row Tag="TXT_KEY_UNIT_SUMMON_ICE">
+      <Text>Iceberg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SUMMON_ICE_TEXT">
+      <Text>
+        Icebergs block movement of all naval units except for friendly units. They cannot move and cannot attack, but may be disbanded. Neutral civilizations must declare war to attack them.
+      </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SUMMON_ICE_STRATEGY">
+      <Text>Icebergs block movement of all naval units except for friendly units. They cannot move and cannot attack, but may be disbanded. Neutral civilizations must declare war to attack them.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_SUMMON_ICE_HELP">
+      <Text>Icebergs block movement of all naval units except for friendly units. They cannot move and cannot attack, but may be disbanded. Neutral civilizations must declare war to attack them.</Text>
+    </Row>
+
+
+    <Row Tag="TXT_KEY_UNIT_ARENDELLE_BERSERKER">
+			<Text>Arendellian Berserker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_BERSERKER_TEXT">
+			<Text>
+				If the Arendellian Berserker gets you, there is no hope. Run for your lives. This is just a Civilopedia placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_BERSERKER_STRATEGY">
+			<Text>The Berserker is one of two Arendellian Unique Units, replacing the Longswordsman. This Unit is +1 Movement [ICON_MOVES] compared to the Longswordsman and possesses the Amphibious promotion, allowing it to attack onto land from a Coast tile with no penalty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_BERSERKER_HELP">
+			<Text>Strong, front-line land Unit of the Medieval Era that specializes in attacks from the sea. Only Arendelle may build it. Replaces the Longswordsman.</Text>
+		</Row>
+
+		
+		
+		<Row Tag="TXT_KEY_UNIT_ARENDELLE_SKI_INFANTRY">
+			<Text>Arendellian Ski Infantry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_SKI_INFANTRY_TEXT">
+			<Text>
+				Like the Norwegian Ski Infantry, only better. With lasers. This is just a Civilopedia placeholder text.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_SKI_INFANTRY_STRATEGY">
+			<Text>The Arendellian Ski Infantry is one of two Arendellian Unique Units, replacing the Rifleman. This Unit moves through Snow, Tundra, or Hill at double speed. It also has a +25% combat bonus in Snow, Tundra or Hill terrain if neither Forest nor Jungle is present.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ARENDELLE_SKI_INFANTRY_HELP">
+			<Text>Strong, front-line land Unit of the mid-game that specializes in operating in Snow, Tundra and Hills. Only Arendelle may build it. Replaces the Rifleman.</Text>
+		</Row>
+		
+	</Language_en_US>
+
+  <!-- ############# -->
+  <!-- BUILDING TEXT -->
+  <!-- ############# -->
+
+  <Language_en_US>
+
+    <Row Tag="TXT_KEY_BUILDING_HOUSE_OF_ICE">
+      <Text>Ice House</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_HOUSE_OF_ICE_STRATEGY">
+      <Text>Replaces Market. Adds +1 [ICON_GOLD] to both tundra and snow tiles.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_HOUSE_OF_ICE_TEXT">
+      <Text>The ice trade, also known as the frozen water trade, was a 19th-century industry, centering on the east coast of the United States and Norway, involving the large-scale harvesting, transport and sale of natural ice for domestic consumption and commercial purposes. Ice was cut from the surface of ponds and streams, then stored in ice houses, before being sent on by ship, barge or railroad to its final destination around the world. Networks of ice wagons were typically used to distribute the product to the final domestic and smaller commercial customers. The ice trade revolutionized the U.S. meat, vegetable and fruit industries, enabled significant growth in the fishing industry, and encouraged the introduction of a range of new drinks and foods.</Text>
+    </Row>
+
+    <Row Tag="TXT_KEY_BUILDING_ARENDELLETRAIT">
+      <Text>Arendelle's Trait Building</Text>
+    </Row>
+    <Row Tag="TXT_KEY_BUILDING_ARENDELLETRAIT_STRATEGY">
+      <Text>Strategy Text. You shouldn't be able to see this.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_BUILDINGS_ARENDELLETRAIT_TEXT">
+      <Text>Civilopedia Text. You shouldn't be able to see this.</Text>
+    </Row>
+    
+  </Language_en_US>
+  
+</GameData>

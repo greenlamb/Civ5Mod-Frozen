@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/10/2015 5:56:03 PM -->
+<GameData>
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_WESELTON</Type>
+			<Description>TXT_KEY_CITYSTATE_WESELTON</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_WESELTON</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_WESELTON_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_CYAN</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_MERCANTILE</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESELTON</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_WESELTON_CAPITAL</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_WESELTON">
+			<Text>Weselton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WESELTON_CAPITAL">
+			<Text>Weselton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_WESELTON_ADJ">
+			<Text>Weseltonian</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESELTON</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESELTON</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESELTON</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESELTON</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_WESELTON</MinorCivType>
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_TROLLS</Type>
+			<Description>TXT_KEY_CITYSTATE_TROLLS</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_TROLLS</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_TROLLS_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_LIGHT_PURPLE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROLLS</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_TROLLS_CAPITAL</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_TROLLS">
+			<Text>Valley of the Living Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TROLLS_CAPITAL">
+			<Text>Valley of the Living Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_TROLLS_ADJ">
+			<Text>Troll</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROLLS</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROLLS</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROLLS</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_TROLLS</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_CORONA</Type>
+			<Description>TXT_KEY_CITYSTATE_CORONA</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_CORONA</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_CORONA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_YELLOW</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_CORONA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_CORONA_CAPITAL</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_CORONA">
+			<Text>Corona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CORONA_CAPITAL">
+			<Text>Corona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_CORONA_ADJ">
+			<Text>Corona</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_CORONA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CORONA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CORONA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CORONA</MinorCivType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_CORONA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_MALDONIA</Type>
+			<Description>TXT_KEY_CITYSTATE_MALDONIA</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_MALDONIA</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_MALDONIA_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_PEACH</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_CULTURED</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDONIA</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_MALDONIA_CAPITAL</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_MALDONIA">
+			<Text>Maldonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALDONIA_CAPITAL">
+			<Text>Maldonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_MALDONIA_ADJ">
+			<Text>Maldonian</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDONIA</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDONIA</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDONIA</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_MALDONIA</MinorCivType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+
+	<MinorCivilizations>
+		<Row>
+			<Type>MINOR_CIV_STORYBROOKE</Type>
+			<Description>TXT_KEY_CITYSTATE_STORYBROOKE</Description>
+			<ShortDescription>TXT_KEY_CITYSTATE_STORYBROOKE</ShortDescription>
+			<Adjective>TXT_KEY_CITYSTATE_STORYBROOKE_ADJ</Adjective>
+			<Civilopedia>No info</Civilopedia>
+			<DefaultPlayerColor>PLAYERCOLOR_MINOR_MIDDLE_BLUE</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<MinorCivTrait>MINOR_TRAIT_RELIGIOUS</MinorCivTrait>
+		</Row>
+	</MinorCivilizations>
+	<MinorCivilization_CityNames>
+		<Row>
+			<MinorCivType>MINOR_CIV_STORYBROOKE</MinorCivType>
+			<CityName>TXT_KEY_CITYSTATE_STORYBROOKE_CAPITAL</CityName>
+		</Row>
+	</MinorCivilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITYSTATE_STORYBROOKE">
+			<Text>Storybrooke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_STORYBROOKE_CAPITAL">
+			<Text>Storybrooke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYSTATE_STORYBROOKE_ADJ">
+			<Text>OUaT</Text>
+		</Row>
+	</Language_en_US>
+	<MinorCivilization_Flavors>
+		<Row>
+			<MinorCivType>MINOR_CIV_STORYBROOKE</MinorCivType>
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_STORYBROOKE</MinorCivType>
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_STORYBROOKE</MinorCivType>
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+			<Flavor>0</Flavor>
+		</Row>
+		<Row>
+			<MinorCivType>MINOR_CIV_STORYBROOKE</MinorCivType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</MinorCivilization_Flavors>
+</GameData>
